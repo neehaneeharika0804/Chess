@@ -1,0 +1,1 @@
+Chess board has 64 squares and 32 pieces
